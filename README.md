@@ -57,7 +57,7 @@ Colunas principais:
 # Como ter acesso ao projeto 
 
 ## Clonando repositório: 
-Git clone https://github.com/hyyperjustinnn/PROJ_IA_2025_Turma2_Grupo1.git
+Git clone https://github.com/hyyperjustinnn/PROJ_IA_2025_Turma41_Grupo.git
 
 ## Entrando no Projeto:
 Cd PROJ_IA_2025_Turma2_Grupo1
