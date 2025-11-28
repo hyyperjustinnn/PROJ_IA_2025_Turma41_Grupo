@@ -60,7 +60,7 @@ Colunas principais:
 Git clone https://github.com/hyyperjustinnn/PROJ_IA_2025_Turma41_Grupo.git
 
 ## Entrando no Projeto:
-Cd PROJ_IA_2025_Turma2_Grupo1
+Cd PROJ_IA_2025_Turma41_Grupo
 
 # ativar ambiente...
 Py -m pip install -r requirements.txt 
